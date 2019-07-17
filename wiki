@@ -1,0 +1,2 @@
+Form are one of the most important thigns for a develper to take care of. forms require a person to be carefull not to make it difficult for users to use them. One thing is to make sure no needless information is in them.
+Another thing,is libraries like Json Schema makes generating forms consistant.
